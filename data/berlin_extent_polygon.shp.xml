@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="sk"><Esri><CreaDate>20241209</CreaDate><CreaTime>14080700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20241209" Time="140807">RasterToPolygon composite_subset_reclassify.tif C:\SKOLA\02_DOKTORAT\ml_dpz\lcz\berlin_data\berlin_extent_polygon.shp NO_SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
